@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636442659269",
+    "project_id": "sisters-directory",
+    "storage_bucket": "sisters-directory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636442659269:android:93e4ef2b0a0e143666a3ac",
+        "android_client_info": {
+          "package_name": "com.example.sisters_directory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgAVdP-jUi0YZpe12U-06e8zpze8FFkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
